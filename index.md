@@ -10,6 +10,26 @@
 
 ## Overview
 
+Shelf Awareness is a centralized moble and web application that is designed to create a digital inventory system to keep track of items in a pantry, freezer, fridge, and spice rack. Users will be able to add, remove, and edit items. The application will also keep track of the expiration date of items and the quantity, which can generate shopping lists for items that are low in quanity, needed for a recipe, or pass its expiration date. 
+
+The application will aloow for two types of users.
+
+* Admins can add, delete, and review recipes.
+* Users can add new pantries, add, update, and delete items to their pantry, add and view recipes, create shopping lists, and view a map of nearby grocery stores. 
+
+## Use Cases 
+
+* Users can create a shopping list based on needed ingredients for a receipe.
+* Users can create a shopping list based on items that are expired or low in stock.
+* Application will track item quantity in the pantry
+* Use expiration reminders to encourage certain recipes to avoid waste
+
+## Beyond The Basics
+* Users can leave a review on recipes that they liked or disliked.
+* Macro/Protein tracker in each meal or in the current grocery list
+* Mobile Friendly Application
+* Barcode scanner that will automatically add an item to be reivewed before adding it to the pantry
+
 ---
 
 ## Team
