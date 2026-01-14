@@ -1,4 +1,3 @@
-# Shelf Awareness: Learning to be shelf aware.
 
 ## Table of Contents
 
