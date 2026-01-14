@@ -1,0 +1,11 @@
+title: Shelf Awareness
+description: Learning to be shelf aware
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: 
+website: 
+gems:
+  - jekyll-mentions
