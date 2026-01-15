@@ -10,26 +10,28 @@
 
 ## Overview
 
-Shelf Awareness is a centralized moble and web application that is designed to create a digital inventory system to keep track of items in a pantry, freezer, fridge, and spice rack. Users will be able to add, remove, and edit items. The application will also keep track of the expiration date of items and the quantity, which can generate shopping lists for items that are low in quanity, needed for a recipe, or pass its expiration date. 
+Shelf Awareness is a centralized mobile and web application designed to provide a digital inventory system for managing household food storage, including pantries, refrigerators, freezers, and spice racks. The application allows users to add, remove, and edit items, while tracking item quantities and expiration dates.
+
+Using this information, Shelf Awareness can automatically generate shopping lists for items that are running low, required for selected recipes, or nearing (or past) their expiration dates—helping users stay organized and reduce food waste.
 
 The application will allow for two types of users.
 
 * Admins can add, delete, and review recipes.
-* Users can add new pantries, add, update, and delete items to their pantry, add and view recipes, create shopping lists, and view a map of nearby grocery stores. 
+* Users can create and manage multiple pantries, add, update, and delete pantry items, add and view recipes, generate shopping lists, and view a map of nearby grocery stores. 
 
 ## Use Cases 
 
 * Users can create a shopping list based on needed ingredients for a receipe.
-* Users can create a shopping list based on items that are expired or low in stock.
-* Application will track item quantity in the pantry
-* Use expiration reminders to encourage certain recipes to avoid waste
+* Users can generate shopping lists based on items that are expired or low in stock.
+* Application will track item quanties across all storage locations.
+* Use expiration reminders to suggest recipes to help reduce food waste.
 
 ## Beyond The Basics
 
 * Users can leave a review on recipes that they liked or disliked.
-* Macro/Protein tracker in each meal or in the current grocery list
-* Mobile Friendly Application
-* Barcode scanner that will automatically add an item to be reivewed before adding it to the pantry
+* Macro and Protein tracker for meals or in the current grocery list
+* Fully Mobile Friendly interface
+* Barcode scanner to automatically add an item to be reivewed before adding it to the pantry
 
 ## User Guide / Page Mockups
 Below provides a walkthrough of the Shelf Awareness applications that includes its user interface.
