@@ -35,6 +35,9 @@ The application will allow for two types of users.
 Below provides a walkthrough of the Shelf Awareness applications that includes its user interface.
 
 ### Landing Page
+<p align="center">
+  <img src="images/mockup_landingpage.png" alt="Landing Page" width="100%">
+</p>
 
 ### Sign Up Page
 
@@ -48,12 +51,10 @@ Below provides a walkthrough of the Shelf Awareness applications that includes i
 
 ### Recipe Mage
 
-### Locations Page
-
-This page will allow the user to view their current location and direct them to nearby grocery stores so they can shop for their needed items efficiently.
-
 ### Mobile View
-
+<p align="center">
+  <img src="images/mobile_mockup_recipes.png" alt="Mobile Application" width="50%">
+</p>
 
 ---
 
