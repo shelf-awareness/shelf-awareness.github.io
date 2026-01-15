@@ -39,17 +39,20 @@ Below provides a walkthrough of the Shelf Awareness applications that includes i
   <img src="images/mockup_landingpage.png" alt="Landing Page" width="100%">
 </p>
 
-### Sign Up Page
-
-### Sign In Page 
-
-### User Home Page
-
-### My Kitchen Page
+### Sign In Page
+<p align="center">
+  <img src="images/mockup_signin.png" alt="Sign In Page" width="100%">
+</p>
 
 ### Shopping List Page
+<p align="center">
+  <img src="images/mockup_shoppinglist.png" alt="Shopping List Page" width="100%">
+</p>
 
-### Recipe Mage
+### Recipe Page
+<p align="center">
+  <img src="images/mockup_recipes.png" alt="Mockup Recipe Page" width="100%">
+</p>
 
 ### Mobile View
 <p align="center">
