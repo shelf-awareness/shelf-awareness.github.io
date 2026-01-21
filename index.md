@@ -36,6 +36,7 @@ The application will allow for two types of users.
 ## User Guide / Page Mockups
 Below provides a walkthrough of the Shelf Awareness applications that includes its user interface.
 
+*Use of generative AI disclaimer: Page mockups were generated using AI*
 ### Landing Page
 <p align="center">
   <img src="images/mockup_landingpage.png" alt="Landing Page" width="100%">
@@ -81,5 +82,5 @@ Our team's Code of Conduct can be found in the [Team Contract](https://docs.goog
 
 ## Our GitHub
 * View the Shelf Awareness organization [here](https://github.com/shelf-awareness)
-* View the Shelf Awareness project repository [here]()
+* View the Shelf Awareness project repository [here](https://github.com/shelf-awareness/shelf-awareness)
 * View the Shelf Awareness github.io page repository [here](https://github.com/shelf-awareness/shelf-awareness.github.io)
