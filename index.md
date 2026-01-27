@@ -1,5 +1,7 @@
 # Shelf Awareness: Learning to be Shelf Aware. 
 
+[![ci-nextjs-application-template](https://github.com/shelf-awareness/shelfwareness/actions/workflows/ci.yml/badge.svg)](https://github.com/shelf-awareness/shelf-awareness/actions/workflows/ci.yml)
+
 ## Table of Contents
 
 * [Overview](#overview)
