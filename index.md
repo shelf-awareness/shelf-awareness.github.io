@@ -104,12 +104,11 @@ During Milestone 1, we focused on the following tasks:
 - Rebranded the website, including updated color scheme, theme, logo, navbar, and footer.
 - Designed mobile friendly implementation for key components and pages (ex. View Pantry, Recipes, Shopping List)
 
-#### Mockup Map page
-Allow users to view Map page to see nearest grocery stores to their pantry that may be running low in or missing items from their pantry. 
-
-
 #### Quality Assurance
 - Performed acceptance testing to ensure existing features function correctly after dependency and configuration updates.
+
+### Milestone 1 Progress and Mockups
+
 
 ---
 
