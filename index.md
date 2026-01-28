@@ -6,8 +6,8 @@
 
 * [Overview](#overview)
 * [Team](#team)
-* [M1](#milestone-1)
 * [Our GitHub](#our-github)
+* [M1](#milestone-1)
 
 ---
 
@@ -83,6 +83,14 @@ Our team's Code of Conduct can be found in the [Team Contract](https://docs.goog
 
 ---
 
+## Our GitHub
+* View the Shelf Awareness organization [here](https://github.com/shelf-awareness)
+* View the Shelf Awareness project repository [here](https://github.com/shelf-awareness/shelf-awareness)
+* View the Shelf Awareness github.io page repository [here](https://github.com/shelf-awareness/shelf-awareness.github.io)
+
+---
+
+
 ## Milestone 1
 
 ### Overview
@@ -138,10 +146,3 @@ Map Mockup
 <p align="center">
   <img src="images/shelf-awareness-M1-mapmockup.jpg" alt="Map Mockup Page" width="100%">
 </p>
-
----
-
-## Our GitHub
-* View the Shelf Awareness organization [here](https://github.com/shelf-awareness)
-* View the Shelf Awareness project repository [here](https://github.com/shelf-awareness/shelf-awareness)
-* View the Shelf Awareness github.io page repository [here](https://github.com/shelf-awareness/shelf-awareness.github.io)
