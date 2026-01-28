@@ -94,7 +94,7 @@ Our team's Code of Conduct can be found in the [Team Contract](https://docs.goog
 ## Milestone 1
 
 ### Overview
-Milestone 1 focused on establishing a stable, well-documented foundation for the Shelf Awareness application. Since this project is based on a forked repository, much of the core functionality (pantry management, shopping lists, recipes, and UI components) was already implemented. The primary goal of this milestone was to align the existing codebase with our project goals, modernize the development environment, and prepare the application for future feature development.
+Milestone 1 focused on establishing a stable, well-documented foundation for the Shelf Awareness application. Since this project is based on a forked repository, much of the core functionality (pantry management, shopping lists, recipes, and UI components) was already implemented. The primary goal of this milestone was to align the existing codebase with our project goals (primarily through making mockup pages) and modernize the development environment by updating packages to prepare the application for future feature development. 
 
 During Milestone 1, we focused on the following tasks: 
 #### Project Planning and documentation
@@ -142,7 +142,12 @@ Recipe Page
 </p>
 
 Map Mockup
-*Use of generative AI disclaimer: Mockup were generated using AI*
+*Use of generative AI disclaimer: Mockup was generated using AI*
 <p align="center">
   <img src="images/shelf-awareness-M1-mapmockup.jpg" alt="Map Mockup Page" width="100%">
+</p>
+
+"Recipes Within Budget" Filter Mockup
+<p align="center">
+  <img src="images/recipes_within_budget_mockup.png" alt="Recipes Within Budget Mockup" width="100%">
 </p>
