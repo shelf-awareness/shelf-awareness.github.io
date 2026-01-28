@@ -6,6 +6,7 @@
 
 * [Overview](#overview)
 * [Team](#team)
+* [M1](#milestone-1)
 * [Our GitHub](#our-github)
 
 ---
@@ -79,6 +80,36 @@ Shelf Awareness is designed, implemented, and maintained by:
 
 ### Team Contract 
 Our team's Code of Conduct can be found in the [Team Contract](https://docs.google.com/document/d/1mhxnlLzFu0t8Fo2HIK4T-8mxscm9ioEZLiUzoZB6VKI/edit?usp=sharing)
+
+---
+
+## Milestone 1
+
+### Overview
+Milestone 1 focused on establishing a stable, well-documented foundation for the Shelf Awareness application. Since this project is based on a forked repository, much of the core functionality (pantry management, shopping lists, recipes, and UI components) was already implemented. The primary goal of this milestone was to align the existing codebase with our project goals, modernize the development environment, and prepare the application for future feature development.
+
+During Milestone 1, we focused on the following tasks: 
+#### Project Planning and documentation
+- Created and documented user stories in the GitHub Discussions tab to define project scope and user goals.
+- Updated the project GitHub Pages site to reflect current project status and milestones.
+- Created the Milestone 2 project board to plan upcoming development.
+
+#### Development Environment & Tooling
+- Updated npm dependencies and resolved compatibility issues.
+- Upgraded the project to support Next.js 15.5.7 and React 19.
+- Set up and verified the database using Prisma.
+- Improved account creation by updating the email verification workflow.
+
+#### UI/UX & Branding
+- Rebranded the website, including updated color scheme, theme, logo, navbar, and footer.
+- Designed mobile friendly implementation for key components and pages (ex. View Pantry, Recipes, Shopping List)
+
+#### Mockup Map page
+Allow users to view Map page to see nearest grocery stores to their pantry that may be running low in or missing items from their pantry. 
+
+
+#### Quality Assurance
+- Performed acceptance testing to ensure existing features function correctly after dependency and configuration updates.
 
 ---
 
