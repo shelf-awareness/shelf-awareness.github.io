@@ -162,7 +162,7 @@ During Milestone 1, we focused on the following tasks:
 
 ##### Shopping List Mobile Mockup
 <p align="center">
-  <img src="images/shoppinglist_mobile_mockup.png" alt="Shopping List Mobile Mockup">
+  <img src="images/shoppinglist_moble_mockup.png" alt="Shopping List Mobile Mockup">
 </p>
 
 ##### Dashboard Mobile Mockup
