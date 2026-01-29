@@ -116,38 +116,41 @@ During Milestone 1, we focused on the following tasks:
 - Performed acceptance testing to ensure existing features function correctly after dependency and configuration updates.
 
 ### Milestone 1 Progress and Mockups
-Landing Page
+
+#### Landing Page
 <p align="center">
   <img src="images/shelf-awareness-M1-landing.png" alt="Landing Page" width="100%">
 </p>
 
-Dashboard Page
+#### Dashboard Page
 <p align="center">
   <img src="images/shelf-awareness-M1-dashboard.png" alt="Dashboard Page" width="100%">
 </p>
 
-View Shelf Page
+#### View Shelf Page
 <p align="center">
   <img src="images/shelf-awareness-M1-viewshelf.png" alt="View Shelf Page" width="100%">
 </p>
 
-Shopping List Page
+#### Shopping List Page
 <p align="center">
   <img src="images/shelf-awareness-M1-shoppinglist.png" alt="Shopping List Page" width="100%">
 </p>
 
-Recipe Page
+#### Recipe Page
 <p align="center">
   <img src="images/shelf-awareness-M1-recipes.png" alt="Recipe Page" width="100%">
 </p>
 
-Map Mockup
+#### Map Mockup
 *Use of generative AI disclaimer: Mockup was generated using AI*
 <p align="center">
   <img src="images/shelf-awareness-M1-mapmockup.jpg" alt="Map Mockup Page" width="100%">
 </p>
 
-"Recipes Within Budget" Filter Mockup
+#### "Recipes Within Budget" Filter Mockup
 <p align="center">
   <img src="images/recipes_within_budget_mockup.png" alt="Recipes Within Budget Mockup" width="100%">
 </p>
+
+#### Current Mobile Mockups
