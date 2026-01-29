@@ -154,3 +154,18 @@ During Milestone 1, we focused on the following tasks:
 </p>
 
 #### Current Mobile Mockups
+
+##### Shelf Mobile Mockup
+<p align="center">
+  <img src="images/shelf_mobile_mockup.png" alt="Shelf Mobile Mockup" width="100%">
+</p>
+
+##### Shopping List Mobile Mockup
+<p align="center">
+  <img src="images/shoppinglist_mobile_mockup.png" alt="Shopping List Mobile Mockup" width="100%">
+</p>
+
+##### Dashboard Mobile Mockup
+<p align="center">
+  <img src="images/dashboard_mobile_mockup.png" alt="Dashboard Mobile Mockup" width="100%">
+</p>
