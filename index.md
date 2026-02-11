@@ -215,3 +215,20 @@ As a casual home cook, I want to save recipes I enjoy so that I can quickly find
 * Replace all instances of firebase with PostgresSQL
 * Unit Converter algorithm
 * Create a form for setting a budget that will be implemented in M3
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Recipe Mobile View</strong><br>
+      <img src="images/M2/M2_mobilerecipe.png" alt="Shelf Mobile Mockup" width="200">
+    </td>
+    <td align="center">
+      <strong>Saved Recipe Page Mobile View</strong><br>
+      <img src="images/M2/M2_mobilesaved.png" alt="Shopping List Mobile Mockup" width="200">
+    </td>
+    <td align="center">
+      <strong>Landing Page Mobile View</strong><br>
+      <img src="images/M2/M2_mobilelanding.png" alt="Dashboard Mobile Mockup" width="200">
+    </td>
+  </tr>
+</table>
