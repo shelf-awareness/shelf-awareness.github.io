@@ -209,6 +209,11 @@ As a casual home cook, I want to save recipes I enjoy so that I can quickly find
   <img src="images/M2shelfawareness_savedrecipes.png" alt="Saved Recipe Page" width="100%">
 </p>
 
+#### Add and Display Protein Information In Shopping List
+<p align="center">
+  <img src="images/M2/addProteinShoppingList.png" alt="Shopping List Page Add Protein" width="100%">
+</p>
+
 ### Additional Implementation and Improvements
 * Mobile-friendly review completed for all pages; some minor spacing adjustments may still be needed.
 * Functionality has been tested to ensure smooth integration with existing features.
