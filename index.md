@@ -8,6 +8,7 @@
 * [Team](#team)
 * [Our GitHub](#our-github)
 * [M1](#milestone-1)
+* [M2](#milestone-2)
 
 ---
 
@@ -155,17 +156,50 @@ During Milestone 1, we focused on the following tasks:
 
 #### Current Mobile Mockups
 
-##### Shelf Mobile Mockup
-<p align="left">
-  <img src="images/shelf_mobile_mockup.png" alt="Shelf Mobile Mockup">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Shelf Mobile Mockup</strong><br>
+      <img src="images/shelf_mobile_mockup.png" alt="Shelf Mobile Mockup" width="200">
+    </td>
+    <td align="center">
+      <strong>Shopping List Mobile Mockup</strong><br>
+      <img src="images/shoppinglist_moble_mockup.png" alt="Shopping List Mobile Mockup" width="200">
+    </td>
+    <td align="center">
+      <strong>Dashboard Mobile Mockup</strong><br>
+      <img src="images/dashboard_mobile_mockup.png" alt="Dashboard Mobile Mockup" width="200">
+    </td>
+  </tr>
+</table>
 
-##### Shopping List Mobile Mockup
-<p align="left">
-  <img src="images/shoppinglist_moble_mockup.png" alt="Shopping List Mobile Mockup">
-</p>
+---
 
-##### Dashboard Mobile Mockup
-<p align="left">
-  <img src="images/dashboard_mobile_mockup.png" alt="Dashboard Mobile Mockup">
-</p>
+## Milestone 2
+
+### Overview
+In M2, our focus was on enhancing usability, improving mobile responsiveness, and integrating new features to support different user needs. We completed a thorough mobile-friendly review of all pages, making the app easier to navigate on a variety of devices. Key functionality was added to support three core user stories, improving the experience for both casual users and specialized users like personal chefs and elite bodybuilders.
+
+### Completed User Stories
+
+#### Personal Chef - Ingredient Management
+As a personal chef, I want to know what ingredients I have and what I’m missing when making a recipe, and be able to quickly add missing ingredients to my shopping list.
+* “Add all missing ingredients” and “Add individual missing ingredients” buttons
+* Correctly adds selected items to the shopping list
+
+#### BodyBuilder - Macro Tracking
+As an elite bodybuilder who needs at least 50g of protein daily, I want macro and protein information on recipes and the ability to import recipes.
+* Added macro fields (protein, carbs, fats) to recipe cards
+* Displays nutritional information on recipes for easy tracking
+
+#### Casual User - Save Recipes
+As a casual home cook, I want to save recipes I enjoy so that I can quickly find them later.
+* New “Saved Recipes” page
+* Save/Unsave recipe buttons added to all recipe cards
+
+### Additional Implementation and Improvements
+* Mobile-friendly review completed for all pages; some minor spacing adjustments may still be needed.
+* Functionality has been tested to ensure smooth integration with existing features.
+* Replace all instances of firebase with PostgresSQL
+* Unit Converter algorithm
+* Create a form for setting a budget that will be implemented in M3
