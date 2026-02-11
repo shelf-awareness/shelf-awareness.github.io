@@ -186,16 +186,28 @@ In M2, our focus was on enhancing usability, improving mobile responsiveness, an
 As a personal chef, I want to know what ingredients I have and what I’m missing when making a recipe, and be able to quickly add missing ingredients to my shopping list.
 * “Add all missing ingredients” and “Add individual missing ingredients” buttons
 * Correctly adds selected items to the shopping list
+<p align="center">
+  <img src="images/M2addmissingrecipecard.png" alt="Add Missing Ingrediants Recipe Card" width="100%">
+</p>
+<p align="center">
+  <img src="images/M2addmissingtoshoppinglist.png" alt="Add Missing Ingrediants To Shopping List" width="100%">
+</p>
 
 #### BodyBuilder - Macro Tracking
 As an elite bodybuilder who needs at least 50g of protein daily, I want macro and protein information on recipes and the ability to import recipes.
 * Added macro fields (protein, carbs, fats) to recipe cards
 * Displays nutritional information on recipes for easy tracking
+<p align="center">
+  <img src="images/M2shelfawareness_macrodisplay.png" alt="Macro Display In Recipe Card" width="100%">
+</p>
 
 #### Casual User - Save Recipes
 As a casual home cook, I want to save recipes I enjoy so that I can quickly find them later.
 * New “Saved Recipes” page
 * Save/Unsave recipe buttons added to all recipe cards
+<p align="center">
+  <img src="images/M2shelfawareness_savedrecipes.png" alt="Saved Recipe Page" width="100%">
+</p>
 
 ### Additional Implementation and Improvements
 * Mobile-friendly review completed for all pages; some minor spacing adjustments may still be needed.
