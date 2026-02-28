@@ -9,6 +9,7 @@
 * [Our GitHub](#our-github)
 * [M1](#milestone-1)
 * [M2](#milestone-2)
+* [M3](#milestone-3)
 
 ---
 
@@ -237,3 +238,54 @@ As a casual home cook, I want to save recipes I enjoy so that I can quickly find
     </td>
   </tr>
 </table>
+
+---
+
+## Milestone 3
+
+### Overview
+Milestone 3 focused on expanding core functionality while improving overall system stability and user experience. During this phase, we introduced recipe-based grocery list automation, dietary tagging and filtering, recipe cook tracking, completed mobile friendly-ness of already integrated pages, and completed protein integration across the shopping list system.
+
+In addition, significant effort was devoted to database synchronization, schema corrections, and migration cleanup to ensure long-term maintainability and stability as the project scales while beginning to prepare the application for deployment. These updates strengthen both the user-facing experience and the underlying structure of the project, helping ensure the application is more reliable, scalable, and ready for continued development.
+
+#### Dietary Tags and Filtering
+We added dietary tags to recipes (such as vegan, vegetarian, keto, gluten-free, and high-protein).
+
+Users can now:
+* Added dietary tags (e.g., vegan, vegetarian, keto, gluten-free, high-protein) to the recipe data model
+* Support for multiple dietary categories per recipe
+* Updated recipe creation and editing forms to allow tag selection
+* Visible dietary tags displayed on recipe cards, detail pages, and saved recipes
+* Dynamic filtering that allows users to select one or more dietary preferences
+
+This system allows users to quickly find meals aligned with their dietary needs and included the same functionality within the Saved Recipes Page.
+
+#### Recipes-Cooked Tracking
+The app now tracks how often a recipe is cooked.
+
+Each time a recipe is marked as cooked:
+* Increments a cook count when a recipe is marked as cooked
+* Stores usage data in the database
+* Updates counts dynamically
+* Supports per-recipe tracking and structured data storage for future personalization features
+
+This helps users see which recipes they use most often and sets up future personalization features.
+
+#### Protein Integration Completed
+Protein tracking was fully integrated into the shopping list system.
+* Added a protein field to the shopping list edit modal
+* Displayed protein values directly on the shopping list page
+
+This keeps nutritional tracking consistent across recipes and grocery planning.
+
+#### Database Fixes and Migration Cleanup
+We resolved several database and migration issues that were causing conflicts.
+
+This included:
+* Removing duplicate migrations
+* Syncing local databases
+* Updating the schema to properly support recipe usage tracking
+* Fixing a routing issue that affected the shopping list page
+
+This work ensures long-term maintainability and reduces technical debt introduced by prior iterations and branching conflicts.
+
