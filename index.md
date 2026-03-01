@@ -309,7 +309,7 @@ This included:
 
 This work ensures long-term maintainability and reduces technical debt introduced by prior iterations and branching conflicts.
 
-#### Ingrediant Substitution System
+#### Ingredient Substitution System
 The app now supports ingredient substitution suggestions for missing recipe items. This includes a centralized substitution mapping and inline display within recipes. This makes recipes more flexible and helps users cook even when ingredients are missing.
 
 This includes: 
