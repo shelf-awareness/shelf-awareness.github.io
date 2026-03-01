@@ -259,12 +259,17 @@ Users can now:
 * Dynamic filtering that allows users to select one or more dietary preferences
 
 This system allows users to quickly find meals aligned with their dietary needs and included the same functionality within the Saved Recipes Page.
+<p align="center">
+  <img src="images/M3/M3_dietaryfilters.png" alt="Dietary Filters on Recipe Page" width="100%">
+</p>
+<p align="center">
+  <img src="images/M3/M3_dietarysavedrecipes.png" alt="Dietary Filters on Saved Recipe Page" width="100%">
+</p>
 
 #### Recipes-Cooked Tracking
 The app now tracks how often a recipe is cooked.
 
 Each time a recipe is marked as cooked:
-* Increments a cook count when a recipe is marked as cooked
 * Stores usage data in the database
 * Updates counts dynamically
 * Supports per-recipe tracking and structured data storage for future personalization features
@@ -278,6 +283,21 @@ Protein tracking was fully integrated into the shopping list system.
 
 This keeps nutritional tracking consistent across recipes and grocery planning.
 
+#### Automatic Grocery List from Selected Recipes
+The app now generates a grocery list based on selected recipes.
+
+When users choose multiple recipes, the system:
+* Calculates the total quantity needed per ingredient
+* Merges duplicate items into a single entry
+* Generates a consolidated shopping list
+
+<p align="center">
+  <img src="images/M3/M3_createfromrecipe.png" alt="Create From Recipe Button" width="100%">
+</p>
+<p align="center">
+  <img src="images/M3/M3_shoppinglistfromrecipe.png" alt="Substituions on Recipe Page" width="100%">
+</p>
+
 #### Database Fixes and Migration Cleanup
 We resolved several database and migration issues that were causing conflicts.
 
@@ -288,4 +308,19 @@ This included:
 * Fixing a routing issue that affected the shopping list page
 
 This work ensures long-term maintainability and reduces technical debt introduced by prior iterations and branching conflicts.
+
+#### Ingrediant Substitution System
+The app now supports ingredient substitution suggestions for missing recipe items. This includes a centralized substitution mapping and inline display within recipes. This makes recipes more flexible and helps users cook even when ingredients are missing.
+
+This includes: 
+* Supports multiple substitutes per ingredient
+* Stored substituion data in Database
+* Displays valid substitutes inline for missing ingredients
+
+<p align="center">
+  <img src="images/M3/M3_substitutions_recipe.png" alt="Substituions on Recipe Page" width="100%">
+</p>
+<p align="center">
+  <img src="images/M3/M3_substitutions_recipecard.png" alt="Dietary Filters on Saved Recipe Page" width="100%">
+</p>
 
