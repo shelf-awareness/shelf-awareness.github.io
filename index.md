@@ -324,6 +324,7 @@ This Included:
 * Fixed an issue where adding a pantry item incorrectly displayed a failed operation message even though the item was successfully added to the database and pantry view.
 * Corrected text centering issues on the shopping list page.
 * Updated the shopping list to properly adjust item units when ingredients are added from recipes.
+* Updated the shopping list to reflect changes in real time and allow for basic sorted searches.
 * Removed duplicate dietary tags appearing on the “Add New Recipe” page.
 * Replaced edit and delete text buttons on the shopping list with intuitive pencil and trash can icons for a cleaner interface.
 
@@ -336,6 +337,12 @@ Users can now:
 
 <p align="center">
   <img src="images/M4/M4_movefromshoppinglist.png" alt="Move items from Shopping List to Pantry" width="100%">
+</p>
+
+Subsequently, we tweaked the page so that any changes in shopping lists would be reflected in real time. This is also accompanied by a basic sorting function for quicker, targeted shopping list viewing.
+
+<p align="center">
+  <img src="images/M4/M4_shoppinglistsort.png" alt="Sorting options for Shopping List view" width="100%">
 </p>
 
 #### Ingredient Substitution System
