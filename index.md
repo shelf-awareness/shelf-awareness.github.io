@@ -371,4 +371,9 @@ A basic map system was implemented using Leaflet to support the grocery store lo
   <img src="images/M4/M4_map.png" alt="Map Page" width="100%">
 </p>
 
+#### Profile Page Created
+A basic profile page was created, which can be accessed through the user dropdown. Future milestones will refine the UI and add more functionalities, such as being able to edit the profile, add display names, and set macro goals.
 
+<p align="center">
+  <img src="images/M4/M4-profilepage.png" alt="Profile Page" width="100%">
+</p>
