@@ -10,6 +10,7 @@
 * [M1](#milestone-1)
 * [M2](#milestone-2)
 * [M3](#milestone-3)
+* [M4](#milestone-4)
 
 ---
 
@@ -309,6 +310,34 @@ This included:
 
 This work ensures long-term maintainability and reduces technical debt introduced by prior iterations and branching conflicts.
 
+---
+
+## Milestone 4
+
+### Overview
+Milestone 4 focused on polishing the user experience, improving workflow between major features, and completing several usability improvements identified during earlier milestone reviews. During this phase we fixed UI issues affecting pantry and shopping list interactions, continued rebranding work across the interface, and introduced a basic map implementation for locating nearby grocery stores. Furthermore, an ingredient substitution system was integrated to help refine the overall experience of Shelf Awareness while preparing the application for further expansion and development.
+
+#### UI Improvements and Bug Fixes
+Several usability issues discovered during the Milestone 2 review were addressed to improve the consistency and reliability of the interface.
+
+This Included: 
+* Fixed an issue where adding a pantry item incorrectly displayed a failed operation message even though the item was successfully added to the database and pantry view.
+* Corrected text centering issues on the shopping list page.
+* Updated the shopping list to properly adjust item units when ingredients are added from recipes.
+* Removed duplicate dietary tags appearing on the “Add New Recipe” page.
+* Replaced edit and delete text buttons on the shopping list with intuitive pencil and trash can icons for a cleaner interface.
+
+#### Grocery List to Pantry Workflow
+To improve the grocery shopping workflow, we added the ability to move purchased items directly from the shopping list into the pantry.
+
+Users can now: 
+* Mark items as purchased within the shopping list
+* Move purchased items directly into their pantry inventory
+
+<p align="center">
+  <img src="images/M4/M4_movefromshoppinglist.png" alt="Move items from Shopping List to Pantry" width="100%">
+</p>
+
 #### Ingredient Substitution System
 The app now supports ingredient substitution suggestions for missing recipe items. This includes a centralized substitution mapping and inline display within recipes. This makes recipes more flexible and helps users cook even when ingredients are missing.
 
@@ -323,4 +352,23 @@ This includes:
 <p align="center">
   <img src="images/M3/M3_substitutions_recipecard.png" alt="Dietary Filters on Saved Recipe Page" width="100%">
 </p>
+
+#### Branding and UI Rebranding 
+Additional rebranding work was completed across the application to maintain visual consistency with the Shelf Awareness identity and theme.
+
+This included:
+* Replacing remaining instances of PantryPals with Shelf Awareness
+* Updating outdated color styling across components
+* Replacing previous green accent colors with the updated blue theme
+
+<p align="center">
+  <img src="images/M4/M4_uirebranding.png" alt="UI Rebranding" width="100%">
+</p>
+
+#### Basic Grocery Store Map Implementation
+A basic map system was implemented using Leaflet to support the grocery store location feature described in earlier milestones.
+<p align="center">
+  <img src="images/M4/M4_map.png" alt="Map Page" width="100%">
+</p>
+
 
