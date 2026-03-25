@@ -11,6 +11,7 @@
 * [M2](#milestone-2)
 * [M3](#milestone-3)
 * [M4](#milestone-4)
+* [M5](#milestone-5)
 
 ---
 
@@ -27,9 +28,9 @@ The application will allow for two types of users.
 
 ## Use Cases 
 
-* Users can create a shopping list based on needed ingredients for a receipe.
+* Users can create a shopping list based on needed ingredients for a recipe.
 * Users can generate shopping lists based on items that are expired or low in stock.
-* Application will track item quanties across all storage locations.
+* Application will track item quantitees across all storage locations.
 * Use expiration reminders to suggest recipes to help reduce food waste.
 
 ## Beyond The Basics
@@ -189,10 +190,10 @@ As a personal chef, I want to know what ingredients I have and what I’m missin
 * “Add all missing ingredients” and “Add individual missing ingredients” buttons
 * Correctly adds selected items to the shopping list
 <p align="center">
-  <img src="images/M2addmissingrecipecard.png" alt="Add Missing Ingrediants Recipe Card" width="100%">
+  <img src="images/M2addmissingrecipecard.png" alt="Add Missing Ingredients Recipe Card" width="100%">
 </p>
 <p align="center">
-  <img src="images/M2addmissingtoshoppinglist.png" alt="Add Missing Ingrediants To Shopping List" width="100%">
+  <img src="images/M2addmissingtoshoppinglist.png" alt="Add Missing Ingredients To Shopping List" width="100%">
 </p>
 
 #### BodyBuilder - Macro Tracking
@@ -296,7 +297,7 @@ When users choose multiple recipes, the system:
   <img src="images/M3/M3_createfromrecipe.png" alt="Create From Recipe Button" width="100%">
 </p>
 <p align="center">
-  <img src="images/M3/M3_shoppinglistfromrecipe.png" alt="Substituions on Recipe Page" width="100%">
+  <img src="images/M3/M3_shoppinglistfromrecipe.png" alt="Substitutions on Recipe Page" width="100%">
 </p>
 
 #### Database Fixes and Migration Cleanup
@@ -350,11 +351,11 @@ The app now supports ingredient substitution suggestions for missing recipe item
 
 This includes: 
 * Supports multiple substitutes per ingredient
-* Stored substituion data in Database
+* Stored substitution data in Database
 * Displays valid substitutes inline for missing ingredients
 
 <p align="center">
-  <img src="images/M3/M3_substitutions_recipe.png" alt="Substituions on Recipe Page" width="100%">
+  <img src="images/M3/M3_substitutions_recipe.png" alt="Substitutions on Recipe Page" width="100%">
 </p>
 <p align="center">
   <img src="images/M3/M3_substitutions_recipecard.png" alt="Dietary Filters on Saved Recipe Page" width="100%">
@@ -384,3 +385,52 @@ A basic profile page was created, which can be accessed through the user dropdow
 <p align="center">
   <img src="images/M4/M4-profilepage.png" alt="Profile Page" width="100%">
 </p>
+
+---
+
+## Milestone 5
+
+### Overview
+Milestone 5 focused on improving data precision, enhancing user personalization, and refining the overall user interface across both desktop and mobile experiences. During this phase, we introduced more structured quantity and pricing systems to support future cost and nutrition-based features, while also addressing usability issues within the profile page and mobile layouts. Additionally, location-based functionality was expanded to improve the grocery store mapping experience.
+
+These updates strengthen the application's ability to provide accurate calculations, improve user customization, and deliver a more polished and responsive interface.
+
+#### Structured Quantity System
+We redesigned how item quantities are stored and managed across the application to support more accurate tracking and calculations.
+
+This included:
+* Updated the Prisma schema to store quantity as a value + unit system
+* Added standardized unit options (e.g., grams, ounces, pounds, cups, milliliters, items)
+* Enabled consistent quantity tracking across pantry items and shopping lists
+* Laid the foundation for future unit conversion and nutrition calculations (such as protein tracking)
+
+#### Price-Per-Unit Integration
+We introduced pricing metadata to pantry items to support cost estimation features.
+
+Users can now:
+* Store a price-per-unit value for each pantry item
+* Associate pricing with specific units (e.g., per pound, per item)
+* Use default estimated pricing or manually adjust values
+
+This feature enables future enhancements such as:
+* Recipe cost estimation
+* Budget-aware shopping lists
+* Smarter grocery planning
+
+#### Profile Page Improvements
+We enhanced the functionality and appearance of the profile page to improve personalization and usability.
+
+This included:
+* Fixed a bug where the budget value failed to load and remained stuck on “Loading…”
+* Improved the UI to be more dynamic and visually consistent with the rest of the application
+* Established a stronger foundation for future profile features such as editable preferences and nutrition goals
+
+#### Mobile and UI Refinements and Bug Fixes
+We refined the mobile experience by addressing layout and spacing issues across key pages. Additional interface improvements were made to enhance consistency and usability.
+
+This included:
+* Adjusted the size of edit and delete icons for better visibility and accessibility
+* Removed excess white space to reduce unnecessary vertical scrolling
+* Improved spacing consistency on recipe pages, pantry views, and shopping lists
+
+---
