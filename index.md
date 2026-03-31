@@ -404,6 +404,40 @@ This included:
 * Enabled consistent quantity tracking across pantry items and shopping lists
 * Laid the foundation for future unit conversion and nutrition calculations (such as protein tracking)
 
+#### Recipe Popularity & Usage Tracking
+
+We introduced recipe usage tracking and popularity insights to help users discover trending and frequently cooked meals across the platform.
+
+Key updates include:
+
+* Implemented recipe usage tracking to record how often recipes are cooked
+* Rebuilt the tracking system to ensure stability after prior deployment issues
+* Enabled sorting of recipes by cook count for accurate popularity ranking
+* Displayed the most popular ShelfAwareness recipes directly on the dashboard
+* Added visibility into cook counts to improve transparency and user decision-making
+
+User impact:
+
+* Users can quickly identify popular and frequently used recipes
+* Makes it easier to discover trending meals and personal favorites
+* Enhances the dashboard with meaningful, data-driven insights
+
+
+<p align="center">
+  <img src="images/M5/Imadethisbutton.png" alt="Recipe marked as made" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/M5/RecipesMostPop.png" alt="Trendy Recipes" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/M5/SADashboardMostPop.png" alt="Dashboard Trendy" width="100%">
+</p>
+
+This feature lays the groundwork for future enhancements such as personalized recommendations, trending analytics, and smarter meal planning.
+
+
 #### Price-Per-Unit Integration
 We introduced pricing metadata to pantry items to support cost estimation features.
 
