@@ -454,15 +454,15 @@ How to track consumed Macros:
 
 
 <p align="center">
-  <img src="images/M5/Imadethisbutton.png" alt="Recipe marked as made" width="100%">
+  <img src="images/M5/DashboardMacrosTracker.png" alt="Recipe marked as made" width="100%">
 </p>
 
 <p align="center">
-  <img src="images/M5/RecipesMostPop.png" alt="Trendy Recipes" width="100%">
+  <img src="images/M5/EditMacrosInProfilePage.png" alt="Trendy Recipes" width="100%">
 </p>
 
 <p align="center">
-  <img src="images/M5/SADashboardMostPop.png" alt="Dashboard Trendy" width="100%">
+  <img src="images/M5/MadeARecipe.png" alt="Dashboard Trendy" width="100%">
 </p>
 
 Users can reset their tracked daily macros by clicking the "Reset" button from the Dashboard at the end of their day.
