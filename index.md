@@ -457,7 +457,7 @@ We enhanced the functionality and appearance of the profile page to improve pers
 This included:
 * Fixed a bug where the budget value failed to load and remained stuck on “Loading…”
 * Improved the UI to be more dynamic and visually consistent with the rest of the application
-* Established a stronger foundation for future profile features such as editable preferences and nutrition goals
+* Established a stronger foundation for future profile features such as editable diet preferences and nutrition goals
 
 #### Mobile and UI Refinements and Bug Fixes
 We refined the mobile experience by addressing layout and spacing issues across key pages. Additional interface improvements were made to enhance consistency and usability.
