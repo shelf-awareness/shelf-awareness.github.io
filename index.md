@@ -496,4 +496,11 @@ This included:
 * Removed excess white space to reduce unnecessary vertical scrolling
 * Improved spacing consistency on recipe pages, pantry views, and shopping lists
 
+#### Map Page
+We added the ability to add an address when you add a location and have that location show up on the map.
+
+<p align="center">
+  <img src="images/M5/Map-Locations.png" alt="Map with location markers" width="100%">
+</p>
+
 ---
