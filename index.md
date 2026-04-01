@@ -488,6 +488,14 @@ This included:
 * Improved the UI to be more dynamic and visually consistent with the rest of the application
 * Established a stronger foundation for future profile features such as editable diet preferences and nutrition goals
 
+<p align="center">
+  <img src="images/M5/profilepage-update.png" alt="Updated profile page UI" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/M5/dietpref-modal.png" alt="Diet preferences modal" width="100%">
+</p>
+
 #### Mobile and UI Refinements and Bug Fixes
 We refined the mobile experience by addressing layout and spacing issues across key pages. Additional interface improvements were made to enhance consistency and usability.
 
