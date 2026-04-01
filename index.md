@@ -437,6 +437,35 @@ User impact:
 
 This feature lays the groundwork for future enhancements such as personalized recommendations, trending analytics, and smarter meal planning.
 
+#### Updates to Tracking Macros
+
+Each user can now set and track their desired daily macros, being their desired amount of Proteins, Fats, Carbs, and Calories consumed per day.
+
+Users will now find:
+
+* A Daily Macros Tracker near the top of their Dashboard
+* Options to set their desired Daily Macros in their Profile Page
+
+How to track consumed Macros:
+
+* Currently, users track the macros they consume by cooking recipes
+* This is done by clicking the "I Made This" button in a recipe page
+* This now tracks the macros you'd consume by cooking that recipe
+
+
+<p align="center">
+  <img src="images/M5/Imadethisbutton.png" alt="Recipe marked as made" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/M5/RecipesMostPop.png" alt="Trendy Recipes" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/M5/SADashboardMostPop.png" alt="Dashboard Trendy" width="100%">
+</p>
+
+Users can reset their tracked daily macros by clicking the "Reset" button from the Dashboard at the end of their day.
 
 #### Price-Per-Unit Integration
 We introduced pricing metadata to pantry items to support cost estimation features.
