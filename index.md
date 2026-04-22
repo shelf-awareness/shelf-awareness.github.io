@@ -527,6 +527,11 @@ As a personal chef, I want to know what ingredients I have and what I’m missin
 * Automatically generate shopping lists from selected recipes
 * Merge duplicate ingredients and adjust quantities
 
+
+<p align="center">
+  <img src="images/M3/M3_substitutions_recipecard.png" alt="Recipe marked as made" width="100%">
+</p>
+
 #### 2. Health-Conscious User - Macro & Nutrition Tracking
 As a health conscious user, I want to track my daily macros so that I can meet my nutrition goals.
 * View protein, carbs, fats on recipes
@@ -534,11 +539,23 @@ As a health conscious user, I want to track my daily macros so that I can meet m
 * Set daily macro goals in profile
 * Dashboard displays real-time macro progress
 
+
+<p align="center">
+  <img src="images/M5/DashboardMacrosTracker.png" alt="Recipe marked as made" width="100%">
+</p>
+<p align="center">
+  <img src="images/M5/MadeARecipe.png" alt="Macros Logged Made Recipe" width="100%">
+</p>
+
 #### 3. Casual User - Save & Organize Recipes
 As a casual cook, I want to save and organize recipes so that I can easily revisit meals that I enjoy.
 * Save/unsave recipes
 * Dedicated Saved Recipes page
 * Integrated with filtering and dietary preferences
+
+<p align="center">
+  <img src="images/M3/M3_dietarysavedrecipes.png" alt="Dietary Filters on Saved Recipe Page" width="100%">
+</p>
 
 #### 4. Dieting User - Dietary Preference Filtering
 As a user who follows specific eating habits, I want to filter recipes based on my dietary needs/preferences so that I can find suitable meals quickly
@@ -546,11 +563,19 @@ As a user who follows specific eating habits, I want to filter recipes based on 
 * Multi-tag filtering system
 * Works across recipe and saved recipe pages
 
+<p align="center">
+  <img src="images/M3/M3_dietaryfilters.png" alt="Dietary Filters on Recipe Page" width="100%">
+</p>
+
 #### 5. Habit-Aware Cook – Recipe Usage & Personal Insights
 As a habit-aware cook, I want to track how often I cook recipes so that I can understand my habits and preferences.
 * “I Made This” functionality
 * Recipe cook count tracking
 * Popular recipes displayed on dashboard
+
+<p align="center">
+  <img src="images/M6/trendingratings.png" alt="Popular Recipes on Dashboard" width="100%">
+</p>
 
 #### 6. Food Reviewer – Recipe Ratings & Feedback System
 As a food reviewer, I want to rate recipes and see ratings so that I can share feedback and discover highly rated meals.
@@ -558,6 +583,13 @@ As a food reviewer, I want to rate recipes and see ratings so that I can share f
 * One rating per user per recipe (no duplicates)
 * Average rating calculated and displayed
 * Ratings update dynamically as new submissions are added
+
+<p align="center">
+  <img src="images/M6/ratingform.png" alt="Recipe Rating Form" width="100%">
+</p>
+<p align="center">
+  <img src="images/M6/recipepageratings.png" alt="Recipe Page Ratings" width="100%">
+</p>
 
 #### 7. Engaged Cook – Contextual Rating Prompt
 As an engaged cook, I want to be prompted to rate a recipe after cooking it so that providing feedback is quick and convenient.
@@ -573,6 +605,8 @@ As an organized home cook, I want to seamlessly manage my inventory so that my p
 * Real-time updates across pantry and shopping list
 * Structured quantity system with unit support
 
+
+
 #### 9. Local Shopper – Profile & Local Store Awareness
 As an local shopper, I want to customize my profile and find nearby grocery stores so that the app feels tailored to my needs.
 * Set display name and profile picture
@@ -580,5 +614,11 @@ As an local shopper, I want to customize my profile and find nearby grocery stor
 * View nearby grocery stores on map with markers
 * Save and visualize store locations
 
+<p align="center">
+  <img src="images/M5/Map-Locations.png" alt="Map with location markers" width="100%">
+</p>
+<p align="center">
+  <img src="images/M6/localstores.png" alt="Map with local stores location" width="100%">
+</p>
 
 ---
