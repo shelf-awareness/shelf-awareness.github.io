@@ -12,6 +12,7 @@
 * [M3](#milestone-3)
 * [M4](#milestone-4)
 * [M5](#milestone-5)
+* [M6](#milestone-6)
 
 ---
 
@@ -510,5 +511,74 @@ We added the ability to add an address when you add a location and have that loc
 <p align="center">
   <img src="images/M5/Map-Locations.png" alt="Map with location markers" width="100%">
 </p>
+
+---
+
+## Milestone 6
+Milestone 6 focused on finalizing the implementation of nine comprehensive user stories that define the core functionality of Shelf Awareness. Rather than introducing entirely separate features, this milestone consolidates previously developed functionality with newly implemented features—such as recipe ratings, profile customization, and enhanced map integration—into complete, end-to-end user experiences.
+
+This ensures the application is not only feature-rich, but also cohesive, intuitive, and user-centered.
+
+### Completed User Stories
+#### 1. Personal Chef - Ingredient Awareness & Smart Shopping
+As a personal chef, I want to know what ingredients I have and what I’m missing when making a recipe, so that I can efficiently prepare meals.
+* View available vs. missing ingredients
+* Add individual or all missing ingredients to shopping list
+* Automatically generate shopping lists from selected recipes
+* Merge duplicate ingredients and adjust quantities
+
+#### 2. Health-Conscious User - Macro & Nutrition Tracking
+As a health conscious user, I want to track my daily macros so that I can meet my nutrition goals.
+* View protein, carbs, fats on recipes
+* Track consumed macros via “I Made This”
+* Set daily macro goals in profile
+* Dashboard displays real-time macro progress
+
+#### 3. Casual User - Save & Organize Recipes
+As a casual cook, I want to save and organize recipes so that I can easily revisit meals that I enjoy.
+* Save/unsave recipes
+* Dedicated Saved Recipes page
+* Integrated with filtering and dietary preferences
+
+#### 4. Dieting User - Dietary Preference Filtering
+As a user who follows specific eating habits, I want to filter recipes based on my dietary needs/preferences so that I can find suitable meals quickly
+* Supports vegan, vegetarian, keto, gluten-free, high-protein
+* Multi-tag filtering system
+* Works across recipe and saved recipe pages
+
+#### 5. Habit-Aware Cook – Recipe Usage & Personal Insights
+As a habit-aware cook, I want to track how often I cook recipes so that I can understand my habits and preferences.
+* “I Made This” functionality
+* Recipe cook count tracking
+* Popular recipes displayed on dashboard
+
+#### 6. Food Reviewer – Recipe Ratings & Feedback System
+As a food reviewer, I want to rate recipes and see ratings so that I can share feedback and discover highly rated meals.
+* Submit ratings (1–5 stars)
+* One rating per user per recipe (no duplicates)
+* Average rating calculated and displayed
+* Ratings update dynamically as new submissions are added
+
+#### 7. Engaged Cook – Contextual Rating Prompt
+As an engaged cook, I want to be prompted to rate a recipe after cooking it so that providing feedback is quick and convenient.
+* Rating popup appears after first “I Made This”
+* Includes star rating input
+* Can be dismissed
+* Does not reappear after rating is submitted
+
+#### 8. Organized Home Cook – Pantry & Shopping Workflow Integration
+As an organized home cook, I want to seamlessly manage my inventory so that my pantry stays accurate and up to date.
+* Mark shopping list items as purchased
+* Move purchased items directly into pantry
+* Real-time updates across pantry and shopping list
+* Structured quantity system with unit support
+
+#### 9. Local Shopper – Profile & Local Store Awareness
+As an local shopper, I want to customize my profile and find nearby grocery stores so that the app feels tailored to my needs.
+* Set display name and profile picture
+* Edit profile information through UI
+* View nearby grocery stores on map with markers
+* Save and visualize store locations
+
 
 ---
