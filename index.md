@@ -592,11 +592,12 @@ As a food reviewer, I want to rate recipes and see ratings so that I can share f
 </p>
 
 #### 7. Engaged Cook – Contextual Rating Prompt
-As an engaged cook, I want to be prompted to rate a recipe after cooking it so that providing feedback is quick and convenient.
+As an engaged cook, I want to be prompted to rate a recipe after cooking it so that providing feedback is quick and convenient and want expiring items in my pantry to be easily viewed so I can use them accordingly.
 * Rating popup appears after first “I Made This”
 * Includes star rating input
 * Can be dismissed
 * Does not reappear after rating is submitted
+* Expiring Soon filter on Pantry page
 
 #### 8. Organized Home Cook – Pantry & Shopping Workflow Integration
 As an organized home cook, I want to seamlessly manage my inventory so that my pantry stays accurate and up to date.
@@ -604,8 +605,6 @@ As an organized home cook, I want to seamlessly manage my inventory so that my p
 * Move purchased items directly into pantry
 * Real-time updates across pantry and shopping list
 * Structured quantity system with unit support
-
-
 
 #### 9. Local Shopper – Profile & Local Store Awareness
 As an local shopper, I want to customize my profile and find nearby grocery stores so that the app feels tailored to my needs.
